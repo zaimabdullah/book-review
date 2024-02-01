@@ -2,7 +2,7 @@
   
 The Book Review website is a platform designed to facilitate the exploration and review of various books. It offers a user-friendly interface to browse through a curated collection of books, read reviews, and add new ones. It was one of Laravel course project.
 
-#### Web Link: http://book-review.infinityfreeapp.com/
+### Weblink: [Live Website](http://book-review.infinityfreeapp.com/)  
 
 |  Home                             |                               |
 |-----------------------------------------|-----------------------------------------|
