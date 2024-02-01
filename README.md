@@ -4,17 +4,18 @@ The Book Review website is a platform designed to facilitate the exploration and
 
 #### Web Link: http://book-review.infinityfreeapp.com/
 
-|  Home                             |  
-|-----------------------------------------|
-|  |
+|  Home                             |                               |
+|-----------------------------------------|-----------------------------------------|
+| ![home](https://github.com/zaimabdullah/book-review/assets/36534973/cbc0fc7e-56f6-4dd0-8b71-c226f56eef80) | ![pagination](https://github.com/zaimabdullah/book-review/assets/36534973/e3c024ec-c00c-4344-821e-a7debd059863) |
+
 
 |  Search by Book Title                              |  Filter Display Book                            |
 |-----------------------------------------|-----------------------------------------|
-|  |  |
+| ![search-by-title](https://github.com/zaimabdullah/book-review/assets/36534973/26e25c1e-3b21-4904-a3c4-9801177ff88b) | ![filter-book](https://github.com/zaimabdullah/book-review/assets/36534973/5c433983-5a0d-4d37-8f19-e5323abb562c) |
 
 |  Book Details                              |  Add New Review                            |
 |-----------------------------------------|-----------------------------------------|
-|  |  |
+| ![book-details](https://github.com/zaimabdullah/book-review/assets/36534973/9f9e6c05-6f8a-4f1b-bac1-c5620da9e6cf) | ![add-review](https://github.com/zaimabdullah/book-review/assets/36534973/042e64dd-c39e-41a1-a753-a48612d17215) |
 
 ## Features
 
