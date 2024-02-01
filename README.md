@@ -51,8 +51,9 @@ The Book Review website is a platform designed to facilitate the exploration and
 
 For any questions or inquiries, please reach out to the development team at [husnizaim97@gmail.com]
 
-Enjoy using Share a Place and stay productive!
+Enjoy using Book Review and stay productive!
 
+## Laravel
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
